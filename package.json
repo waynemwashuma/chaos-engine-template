@@ -1,0 +1,26 @@
+{
+  "name": "@chaos-studio/template",
+  "version": "0.0.0",
+  "description": "A template for making games using chaos-studio package",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynemwashuma/chaos-engine-template.git"
+  },
+  "keywords": [
+    "2d",
+    "3d",
+    "game-template",
+    "game",
+    "engine"
+  ],
+  "author": "Wayne Mwashuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waynemwashuma/chaos-engine-template/issues"
+  },
+  "homepage": "https://github.com/waynemwashuma/chaos-engine-template#readme"
+}
