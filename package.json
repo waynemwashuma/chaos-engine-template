@@ -4,7 +4,8 @@
   "description": "A template for making games using chaos-studio package",
   "main": "./src/index.js",
   "scripts": {
-    "test": "echo \"no test\""
+    "dev":"vite",
+    "start":"vite "
   },
   "repository": {
     "type": "git",
@@ -17,10 +18,15 @@
     "game",
     "engine"
   ],
-  "author": "Wayne Mwashuma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/waynemwashuma/chaos-engine-template/issues"
   },
-  "homepage": "https://github.com/waynemwashuma/chaos-engine-template#readme"
+  "homepage": "https://github.com/waynemwashuma/chaos-engine-template#readme",
+  "dependencies": {
+    "chaos-studio": "^0.5.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.2"
+  }
 }

@@ -1,0 +1,1 @@
+Here is where you keep your assets such as images and sound.
